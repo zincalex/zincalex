@@ -1,6 +1,9 @@
 ## Hello there 👋
 
-I'm a computer engineer student at [@UNIPD](https://www.unipd.it/) for the AI and Robotics program who is passionate about new technologies, gaming and finance.
+- 🔭 I'm a computer engineer student at [@UNIPD](https://www.unipd.it/) who is passionate about new technologies 🤖, gaming 🎮 and finance 📈.
+
+- 📫 Reach me on  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alessandroviespoli/)
+
 
 <!--
 **zincalex/zincalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
